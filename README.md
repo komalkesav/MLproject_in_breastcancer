@@ -8,7 +8,6 @@ This repository contains the implementation of multiple deep learning models for
 1. [Project Overview](#project-overview)
 2. [Models Implemented](#models-implemented)
 3. [Dataset](#dataset)
-4. [Installation](#installation)
 
 ## Project Overview
 
@@ -26,12 +25,3 @@ The following models are implemented and compared:
 ## Dataset
 
 The dataset used for training and evaluation is sourced from the [RSNA Breast Cancer Detection Challenge](https://www.kaggle.com/c/rsna-breast-cancer-detection) on Kaggle. It consists of mammography images in DICOM format, labeled as either cancerous or non-cancerous.
-
-## Installation
-
-To set up the project, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/breast-cancer-detection.git
-   cd breast-cancer-detection

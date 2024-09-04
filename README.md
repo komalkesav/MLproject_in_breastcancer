@@ -20,7 +20,7 @@ The following models are implemented and compared:
 - **VGG16**: A convolutional neural network (CNN) model known for its deep architecture with small convolutional filters.
 - **Vision Transformer (ViT)**: A transformer-based model that leverages self-attention mechanisms, originally developed for NLP, and adapted for image classification.
 - **ResNet (Residual Networks)**: A CNN model with skip connections, allowing for the training of very deep networks by mitigating the vanishing gradient problem.
-- **custom**: A convolutional neural network (CNN) model using resnet model weights.
+- **custom**: This is a deep convolutional neural network (CNN) model designed for binary image classification, featuring multiple Conv2D layers with ReLU activation, max pooling, dropout for regularization, and a final dense layer with sigmoid activation for binary output.
 
 ## Dataset
 

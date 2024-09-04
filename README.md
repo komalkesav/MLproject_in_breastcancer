@@ -9,11 +9,6 @@ This repository contains the implementation of multiple deep learning models for
 2. [Models Implemented](#models-implemented)
 3. [Dataset](#dataset)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Results](#results)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [Acknowledgments](#acknowledgments)
 
 ## Project Overview
 
